@@ -4,6 +4,7 @@ To-do list:
 - [ ] Build UI
 - [ ] Implement brush(es)
 - [ ] Add layers
+- [ ] Exporting method for whole canvas and layers (PSD, PNG, JPEG)
 - [ ] Shading mode like aseprite
 - [ ] Adaptive scaling moving and skewing (follow pixelart guidelines)
 - [ ] Blend modes
@@ -16,3 +17,4 @@ To-do list:
 - [ ] 3D Perspective lines
 - [ ] Edge detection for auto generated lighting
 - [ ] Seamless textures
+- [ ] Colaboration pages (most likely will not do)
